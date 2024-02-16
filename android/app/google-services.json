@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "349616652317",
+    "project_id": "fir-b0030",
+    "storage_bucket": "fir-b0030.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349616652317:android:b5bfac11d42ce615d886f4",
+        "android_client_info": {
+          "package_name": "com.example.fashiom_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349616652317-k47cukc675986cjodseehfm6psrosn1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fashiom_app",
+            "certificate_hash": "c232db8afa72da1691b1620f2f04986774a50672"
+          }
+        },
+        {
+          "client_id": "349616652317-ghjo74t6f1pfpvidpd3b04pcnoqmj87q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNzXaXbbKfy1MmBL3zRi4GYmXu3SlOIDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349616652317-ghjo74t6f1pfpvidpd3b04pcnoqmj87q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "349616652317-7doh0h8gpr29r45a1fh1jjqsa15prqk6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fashiomApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
